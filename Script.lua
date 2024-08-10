@@ -48,3 +48,4 @@ game.Players.PlayerRemoving:Connect(function(player)
 		warn("Failed to save data: " .. errorMessage)
 	end
 end)
+--@abcmateusz
